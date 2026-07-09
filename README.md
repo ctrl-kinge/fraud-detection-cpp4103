@@ -1,8 +1,8 @@
 # Mobile-Money Fraud Detection — CPP 4103 Assignment 3
 
 **KCA University · BSc Applied Computing · Artificial Intelligence Programming (CPP 4103)**
-**Group:** `<add your group name here>`
-**Members:** `<list every member's full name and registration number>`
+**Members:** Adrian Njunge
+**Registration Number** 23/03607
 
 An artificial-intelligence solution that detects fraudulent mobile-money
 transactions, developed for the problem identified in Assignment 2. This
