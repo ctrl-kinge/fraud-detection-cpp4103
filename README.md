@@ -1,6 +1,6 @@
 # Mobile-Money Fraud Detection — CPP 4103 Assignment 3
 
-**KCA University · BSc Applied Computing · Artificial Intelligence Programming (CPP 4103)**
+**KCA University · Artificial Intelligence Programming (CPP 4103)**
 **Name:** Adrian Njunge
 **Registration Number:** 23/03607
 
